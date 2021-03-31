@@ -1,3 +1,5 @@
+Conditional Example
+
 In this project we will build the Magic Eight Ball using control flow in JavaScript.
 
 1. In the first line of the program, define a variable called userName that is set to an empty string.
